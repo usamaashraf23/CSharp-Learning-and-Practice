@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\usama\usama\bin\Debug\net9.0\usama.exe
+C:\Users\Dell\source\repos\usama\usama\bin\Debug\net9.0\usama.deps.json
+C:\Users\Dell\source\repos\usama\usama\bin\Debug\net9.0\usama.runtimeconfig.json
+C:\Users\Dell\source\repos\usama\usama\bin\Debug\net9.0\usama.dll
+C:\Users\Dell\source\repos\usama\usama\bin\Debug\net9.0\usama.pdb
+C:\Users\Dell\source\repos\usama\usama\obj\Debug\net9.0\usama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\usama\usama\obj\Debug\net9.0\usama.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\usama\usama\obj\Debug\net9.0\usama.AssemblyInfo.cs
+C:\Users\Dell\source\repos\usama\usama\obj\Debug\net9.0\usama.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\usama\usama\obj\Debug\net9.0\usama.dll
+C:\Users\Dell\source\repos\usama\usama\obj\Debug\net9.0\refint\usama.dll
+C:\Users\Dell\source\repos\usama\usama\obj\Debug\net9.0\usama.pdb
+C:\Users\Dell\source\repos\usama\usama\obj\Debug\net9.0\usama.genruntimeconfig.cache
+C:\Users\Dell\source\repos\usama\usama\obj\Debug\net9.0\ref\usama.dll
